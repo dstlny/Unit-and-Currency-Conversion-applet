@@ -4,5 +4,6 @@
 - User can import their own currencies and currency values with the following format via a comma-delimited .txt file:
 `Euro (EUR), 1.359, €`
 - Automatically loads `Currency.txt` located within the `/bin` folder when the program is first executed.
+- Very servicable, readable code.
 
 Created: 21/11/2018 by dstlny
